@@ -1,11 +1,5 @@
-%Auth: Andrew Sivaprakasam
-%Date:03/22/26
-%Description: Quick code to plot some Sam Costa '26 stats against a larger,
-%more average, dataset
+%%
 
-
-%% Rendering
- 
 set(0,'DefaultFigureRenderer','painters')
 
 
